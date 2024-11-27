@@ -1,2 +1,1 @@
-lorem impsum 
-this is from development 
+readme for new branch
